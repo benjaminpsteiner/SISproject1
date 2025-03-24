@@ -1,0 +1,11 @@
+/Users/bensteiner/eclipse-workspace/SISproject1/src/test/java/com/hrm/steps/Hooks.java
+/Users/bensteiner/eclipse-workspace/SISproject1/src/test/java/com/hrm/runners/TestRunner.java
+/Users/bensteiner/eclipse-workspace/SISproject1/src/test/java/com/sis/utils/CommonMethods.java
+/Users/bensteiner/eclipse-workspace/SISproject1/src/test/java/com/hrm/testbase/BaseClass.java
+/Users/bensteiner/eclipse-workspace/SISproject1/src/test/java/com/hrm/pages/HomePageElements.java
+/Users/bensteiner/eclipse-workspace/SISproject1/src/test/java/com/hrm/testbase/PageInitializer.java
+/Users/bensteiner/eclipse-workspace/SISproject1/src/test/java/com/hrm/pages/LoginPageElements.java
+/Users/bensteiner/eclipse-workspace/SISproject1/src/test/java/com/hrm/runners/RegressionRunner.java
+/Users/bensteiner/eclipse-workspace/SISproject1/src/test/java/com/sis/utils/ConfigsReader.java
+/Users/bensteiner/eclipse-workspace/SISproject1/src/test/java/com/hrm/steps/LoginSteps.java
+/Users/bensteiner/eclipse-workspace/SISproject1/src/test/java/com/sis/utils/Constants.java
